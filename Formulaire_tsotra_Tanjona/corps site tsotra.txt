@@ -1,0 +1,13 @@
+/mon_site
+    /css
+        style.css
+    /images
+    /js
+        script.js
+    /includes
+        header.php
+        footer.php
+        db_connect.php
+    index.php
+    about.php
+    contact.php
